@@ -16,3 +16,6 @@ Transfer learning é uma técnica de aprendizado de máquina onde um modelo pré
 - **Melhor Desempenho**: Muitas vezes, o uso de um modelo pré-treinado pode resultar em melhor desempenho do que um modelo treinado do zero, especialmente quando o novo conjunto de dados é pequeno ou a tarefa é semelhante à original.
 
 Transfer learning é amplamente utilizado em aplicações de visão computacional, como reconhecimento de imagens e classificação, onde a disponibilidade de grandes conjuntos de dados rotulados é limitada.
+
+
+* notebook - usar no Colab
